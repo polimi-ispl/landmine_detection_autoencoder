@@ -1,8 +1,8 @@
-# 2018 TGRS Landmine
+# Landmine Detection Using Autoencoders on Multi-polarization GPR Volumetric Data
 
 This repository contains an example of what have been done for the paper:
 
-Francesco Picetti, Federico Lombardi, Paolo Bestagini, Maurizio Lualdi, Stefano Tubaro. *Landmine Detection Using Autoencoder on Multi-polarization GPR Volumetric Data*, submitted to *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, Oct. 2018.
+Paolo Bestagini, Federico Lombardi, Maurizio Lualdi, Francesco Picetti, Stefano Tubaro. *Landmine Detection Using Autoencoder on Multi-polarization GPR Volumetric Data*, Oct. 2018.
 
 ### Abstract
 
