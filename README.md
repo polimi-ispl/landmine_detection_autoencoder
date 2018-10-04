@@ -2,7 +2,7 @@
 
 This repository contains a running example and part of the dataset related to the paper:
 
-Paolo Bestagini, Federico Lombardi, Maurizio Lualdi, Francesco Picetti, Stefano Tubaro, *Landmine Detection Using Autoencoder on Multi-polarization GPR Volumetric Data*, Oct. 2018.
+Paolo Bestagini, Federico Lombardi, Maurizio Lualdi, Francesco Picetti, Stefano Tubaro, *Landmine Detection Using Autoencoder on Multi-polarization GPR Volumetric Data*, Oct. 2018, https://arxiv.org/abs/1810.01316
 
 ### Abstract
 
